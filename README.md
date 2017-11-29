@@ -13,3 +13,6 @@ Une fonction se lançant au moment où l’objet devient visible
 l’Api vuforia utiliser pour le projet contient des boutons virtuels
 l’utilisation d’un timer hourglass comme utiliser avec les cardboard
 Edition simplifié
+
+
+Le projet a avancer à un nouveau point, la localisation et l'ar sont prêt la difficulté vient d'un correspondance entre les données qui doivent être enregistrer et les données réceptionées par le gps.
